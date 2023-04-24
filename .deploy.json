@@ -1,5 +1,5 @@
 {
-	  "DEPLOYPATH" : "/home/aa/www/",
+	  "DEPLOYPATH" : "/home/aa/public_html/",
 	  "task" :  [
 		"index.php"
 	  ]
