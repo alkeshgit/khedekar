@@ -1,5 +1,5 @@
 {
-	  "DEPLOYPATH" : "/home/username/git_repo/",
+	  "DEPLOYPATH" : "/home/aa/www/",
 	  "task" :  [
 		"index.php"
 	  ]
